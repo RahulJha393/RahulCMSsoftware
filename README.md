@@ -42,4 +42,4 @@ The main function of this project is that it creates seperate databases so calle
 on to a server and used for a year  we would have enough data to impliment he ML. We can also have some statistical calculations on this for the upsell 
 Basically via this we would be able to know when there should be a sale ,which customer is more loyal,which product is top selling etc.
 
-I hope you guys will love my code and If you have any suggestions for me to optimize the code then plz do let me know about that.
+I hope you guys will love my Application and If you have any suggestions for me to optimize the code then please do let me know about that.
